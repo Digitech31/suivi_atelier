@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include suivi_atelier *.css
+recursive-include suivi_atelier *.csv
+recursive-include suivi_atelier *.html
+recursive-include suivi_atelier *.ico
+recursive-include suivi_atelier *.js
+recursive-include suivi_atelier *.json
+recursive-include suivi_atelier *.md
+recursive-include suivi_atelier *.png
+recursive-include suivi_atelier *.py
+recursive-include suivi_atelier *.svg
+recursive-include suivi_atelier *.txt
+recursive-exclude suivi_atelier *.pyc
