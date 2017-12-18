@@ -1,0 +1,55 @@
+2017-11-16 15:31:19,998 INFO creating new app sfao_l
+2017-11-16 15:38:01,782 INFO installing sfao_l
+2017-11-16 15:38:01,784 INFO ./env/bin/pip install -q  -e ./apps/sfao_l --no-cache-dir
+2017-11-20 16:07:24,162 INFO updating bench
+2017-11-20 16:07:24,166 INFO git pull
+2017-11-20 16:07:31,667 INFO ./env/bin/pip install Pillow
+2017-11-20 16:08:22,164 INFO updating bench
+2017-11-20 16:08:22,165 INFO git pull
+2017-11-20 16:08:28,137 INFO ./env/bin/pip install Pillow
+2017-11-20 16:08:29,271 INFO pulling frappe
+2017-11-20 16:08:29,273 INFO git fetch --all
+2017-11-20 16:08:30,810 INFO git reset --hard upstream/develop
+2017-11-20 16:08:31,741 INFO find . -name "*.pyc" -delete
+2017-11-20 16:08:31,858 INFO ./env/bin/pip install --upgrade pip
+2017-11-20 16:08:33,509 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-11-20 16:08:58,271 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-11-20 16:09:04,068 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-11-20 16:09:06,388 INFO npm install
+2017-11-20 17:19:30,551 INFO creating new app suivi_atelier
+2017-11-20 17:20:21,660 INFO installing suivi_atelier
+2017-11-20 17:20:21,662 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:27:01,940 INFO creating new app suivi_atelier
+2017-11-20 17:29:16,645 INFO installing suivi_atelier
+2017-11-20 17:29:16,647 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:34:58,616 INFO creating new app suivi_atelier
+2017-11-20 17:35:33,754 INFO installing suivi_atelier
+2017-11-20 17:35:33,755 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:39:06,913 INFO creating new app suivi_atelier
+2017-11-20 17:39:43,106 INFO installing suivi_atelier
+2017-11-20 17:39:43,109 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:40:36,859 INFO creating new app suivi_atelier
+2017-11-20 17:41:08,510 INFO installing suivi_atelier
+2017-11-20 17:41:08,512 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:44:33,595 INFO creating new app suivi_atelier
+2017-11-20 17:45:01,281 INFO installing suivi_atelier
+2017-11-20 17:45:01,283 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:48:21,670 INFO creating new app suivi_atelier
+2017-11-20 17:48:53,126 INFO installing suivi_atelier
+2017-11-20 17:48:53,128 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-11-20 17:57:08,884 INFO creating new app suivi_atelier
+2017-11-20 17:57:48,572 INFO creating new app suivi_atelier
+2017-11-20 17:58:15,167 INFO installing suivi_atelier
+2017-11-20 17:58:15,169 INFO ./env/bin/pip install -q  -e ./apps/suivi_atelier --no-cache-dir
+2017-12-18 18:36:00,519 INFO updating bench
+2017-12-18 18:36:00,525 INFO git pull
+2017-12-18 18:45:06,220 INFO updating bench
+2017-12-18 18:45:06,221 INFO git pull
+2017-12-18 18:47:58,012 INFO updating bench
+2017-12-18 18:47:58,013 INFO git pull
+2017-12-18 18:55:14,897 INFO updating bench
+2017-12-18 18:55:14,899 INFO git pull
+2017-12-18 18:56:11,208 INFO updating bench
+2017-12-18 18:56:11,209 INFO git pull
+2017-12-18 18:56:57,991 INFO updating bench
+2017-12-18 18:56:57,993 INFO git pull
