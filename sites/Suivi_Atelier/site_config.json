@@ -4,10 +4,10 @@
  "encryption_key": "JciyEe207JDraS-CXRHodsuxVwUAIQ46HTJ-EEaiMCg=", 
  "limits": {
   "space_usage": {
-   "backup_size": 2.0, 
-   "database_size": 4.32, 
+   "backup_size": 9.0, 
+   "database_size": 11.16, 
    "files_size": 2.0, 
-   "total": 8.32
+   "total": 22.16
   }
  }
 }

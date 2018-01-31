@@ -53,3 +53,96 @@
 2017-12-18 18:56:11,209 INFO git pull
 2017-12-18 18:56:57,991 INFO updating bench
 2017-12-18 18:56:57,993 INFO git pull
+2017-12-18 19:25:11,054 INFO updating bench
+2017-12-18 19:25:11,055 INFO git pull
+2017-12-18 19:25:16,856 INFO ./env/bin/pip install Pillow
+2017-12-18 19:27:17,313 INFO updating bench
+2017-12-18 19:27:17,314 INFO git pull
+2017-12-18 19:27:23,147 INFO ./env/bin/pip install Pillow
+2017-12-18 19:27:24,468 INFO pulling frappe
+2017-12-18 19:27:24,577 INFO git pull  upstream develop
+2017-12-18 19:27:26,408 INFO find . -name "*.pyc" -delete
+2017-12-18 19:27:26,502 INFO pulling suivi_atelier
+2017-12-18 19:27:26,534 INFO git pull  origin master
+2017-12-18 19:27:27,420 INFO find . -name "*.pyc" -delete
+2017-12-18 19:27:27,447 INFO ./env/bin/pip install --upgrade pip
+2017-12-18 19:27:28,888 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-12-18 19:27:30,195 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-18 19:27:36,202 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-12-18 19:27:39,248 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2017-12-18 19:27:41,232 INFO npm install
+2017-12-19 09:39:05,216 INFO updating bench
+2017-12-19 09:39:05,217 INFO git pull
+2017-12-19 09:39:13,082 INFO ./env/bin/pip install Pillow
+2017-12-19 09:39:14,301 INFO pulling frappe
+2017-12-19 09:39:14,339 INFO git pull  upstream develop
+2017-12-19 09:39:16,026 INFO find . -name "*.pyc" -delete
+2017-12-19 09:39:16,163 INFO pulling suivi_atelier
+2017-12-19 09:39:16,207 INFO git pull  origin master
+2017-12-19 09:39:17,141 INFO find . -name "*.pyc" -delete
+2017-12-19 09:39:17,173 INFO ./env/bin/pip install --upgrade pip
+2017-12-19 09:39:18,714 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-12-19 09:39:19,940 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-19 09:39:24,207 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-12-19 09:39:25,992 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2017-12-19 09:39:27,796 INFO npm install
+2017-12-20 23:45:48,781 INFO updating bench
+2017-12-20 23:45:48,787 INFO git pull
+2017-12-20 23:46:34,241 INFO ./env/bin/pip install Pillow
+2017-12-20 23:46:36,025 INFO pulling frappe
+2017-12-20 23:46:36,064 INFO git pull  upstream develop
+2017-12-20 23:46:37,809 INFO find . -name "*.pyc" -delete
+2017-12-20 23:46:37,935 INFO pulling suivi_atelier
+2017-12-20 23:46:37,972 INFO git pull  origin master
+2017-12-20 23:48:01,220 INFO find . -name "*.pyc" -delete
+2017-12-20 23:48:01,393 INFO ./env/bin/pip install --upgrade pip
+2017-12-20 23:48:03,250 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-12-20 23:48:04,876 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-20 23:48:10,794 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-12-20 23:48:13,478 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2017-12-20 23:48:16,390 INFO npm install
+2017-12-21 00:03:06,102 INFO updating bench
+2017-12-21 00:03:06,103 INFO git pull
+2017-12-21 00:03:12,131 INFO ./env/bin/pip install Pillow
+2017-12-21 00:03:13,539 INFO pulling frappe
+2017-12-21 00:03:13,575 INFO git pull  upstream develop
+2017-12-21 00:03:15,241 INFO find . -name "*.pyc" -delete
+2017-12-21 00:03:15,347 INFO pulling suivi_atelier
+2017-12-21 00:03:15,381 INFO git pull  origin master
+2017-12-21 00:03:16,350 INFO find . -name "*.pyc" -delete
+2017-12-21 00:03:16,606 INFO ./env/bin/pip install --upgrade pip
+2017-12-21 00:03:18,055 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-12-21 00:03:19,271 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-21 00:03:24,823 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-12-21 00:03:27,407 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2017-12-21 00:03:29,967 INFO npm install
+2017-12-21 00:32:43,432 INFO updating bench
+2017-12-21 00:32:43,433 INFO git pull
+2017-12-21 00:32:50,758 INFO ./env/bin/pip install Pillow
+2017-12-21 00:32:52,088 INFO pulling frappe
+2017-12-21 00:32:52,122 INFO git pull  upstream develop
+2017-12-21 00:32:53,791 INFO find . -name "*.pyc" -delete
+2017-12-21 00:32:53,991 INFO pulling suivi_atelier
+2017-12-21 00:32:54,030 INFO git pull  origin master
+2017-12-21 00:32:56,852 INFO find . -name "*.pyc" -delete
+2017-12-21 00:32:57,571 INFO ./env/bin/pip install --upgrade pip
+2017-12-21 00:33:01,666 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2017-12-21 00:33:05,068 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2017-12-21 00:33:13,591 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2017-12-21 00:33:18,052 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2017-12-21 00:33:21,875 INFO npm install
+2018-01-31 11:19:04,688 INFO updating bench
+2018-01-31 11:19:04,694 INFO git pull
+2018-01-31 11:20:33,270 INFO ./env/bin/pip install Pillow
+2018-01-31 11:20:38,709 INFO pulling frappe
+2018-01-31 11:20:38,773 INFO git pull  upstream develop
+2018-01-31 11:20:42,151 INFO find . -name "*.pyc" -delete
+2018-01-31 11:20:42,420 INFO pulling suivi_atelier
+2018-01-31 11:20:42,484 INFO git pull  origin master
+2018-01-31 11:20:43,791 INFO find . -name "*.pyc" -delete
+2018-01-31 11:20:44,508 INFO ./env/bin/pip install --upgrade pip
+2018-01-31 11:20:46,887 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2018-01-31 11:20:53,113 INFO ./env/bin/pip install -q -r ./apps/frappe/requirements.txt
+2018-01-31 11:22:06,541 INFO ./env/bin/pip install -q -r ./apps/sfao_l/requirements.txt
+2018-01-31 11:22:14,561 INFO ./env/bin/pip install -q -r ./apps/suivi_atelier/requirements.txt
+2018-01-31 11:22:18,585 INFO npm install

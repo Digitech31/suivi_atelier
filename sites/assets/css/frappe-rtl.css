@@ -1528,7 +1528,7 @@ th {
 .list-id {
   margin-left: 7px !important;
 }
-.avatar-small {
+.avatar-small .avatar-sm {
   margin-left: 5px;
   margin-right: auto;
 }
@@ -1564,7 +1564,9 @@ ul.tree-children {
 .results {
   direction: ltr;
 }
-
+.data-table {
+  direction: ltr;
+}
 /*
  *	/home/frappe/frappe-bench/apps/frappe/frappe/public/css/report-rtl.css
  */
